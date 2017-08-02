@@ -6,7 +6,7 @@
   },
   {
     "repository": "Rygebin/device_xiaomi_msm8996-common",
-    "target_path": "device/xiaomi/msm8996-common,
+    "target_path": "device/xiaomi/msm8996-common",
     "branch": "n7.1"
   },
   {
